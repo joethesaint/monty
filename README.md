@@ -38,8 +38,8 @@ FIles | Description
 [char.c](./char.c) | Handler functions for ascii instructions
 [bf](./bf) | Advanced tasks: Brainf*ck programs
 
-### Contributors
+### Contributor
 
-- Norris Selorm Bedzo (bedzon@ieee.org)
-- Chigozie Mbawuike (mbawuikestanley@gmail.com)
+- Joseph Bamisaye (joebamisaye068@gmail.com)
+
 
